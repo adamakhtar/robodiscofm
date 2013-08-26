@@ -12,6 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require backbone
+//= require backbone.marionette
 //= require foundation
 //= require_tree .
 

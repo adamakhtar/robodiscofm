@@ -1,0 +1,1 @@
+Robodisco = New Marionette.Application()
